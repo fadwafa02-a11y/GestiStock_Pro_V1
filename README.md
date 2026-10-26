@@ -112,8 +112,4 @@ L'application est disponible sur `http://localhost:3000`.
 - Gestion multi-entrepôts
 - Déploiement avec Docker
 
----
 
-## 👨‍💻 Auteur
-
-Projet réalisé par **VOTRE NOM**.
